@@ -1,0 +1,23 @@
+Going to a restaurant.
+Sandra and Paul are at a steak restaurant. A waiter greets them.
+Do you know what you would like to drink?
+Water and orange juice.
+Thank you. Here are your menus.
+The waiter brings water for Paul and orange juice for Sandra.
+What would you like to order?
+I would like a 12-ounce steak and mashed potatoes.
+The same thing, but with green beans.
+And two orders of garlic bread.
+Great. You should have it in soon.
+The waiter returns after an hour.
+Sorry for your wait. Here are two orders of 12-ounce steaks with mashed potatoes and garlic bread.
+I asked for green beans with mine.
+I'm sorry, I'll get those for you.
+The waiter quickly returns with Sandra's green beans.
+What kind of restaurant did Paul and Sandra go to?
+They went for their lunch at a fast food restaurant.
+What did Paul and Sandra order to drink?
+Soda for Paul and beer for Sandra.
+What kind of steaks did Paul and Sandra order?
+What was wrong with Sandra's order?
+She got coleslaw when she wanted green beans.
